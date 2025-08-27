@@ -1,9 +1,9 @@
 # SCEANet: A Spatial-Channel Mamba Architecture with Edge Awareness for Breast Lesion Ultrasound Image Segmentation
 
-<img src="./asset/overall.png" width="90%" />
+<img src="./asset/overall.png" width="70%" />
 
 ## Main result
-<img src="./asset/mainresult.png" width="50%" />
+<img src="./asset/mainresult.png" width="70%" />
 
 ## Installation
 
