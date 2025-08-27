@@ -5,6 +5,9 @@
 ## Main result
 <img src="./asset/mainresult.png" width="70%" />
 
+### We will gradually update our code repository. Please be patient and wait. If you have any questions, you can publish them in issues.
+
+
 ## Installation
 
 ## Prepare data 
